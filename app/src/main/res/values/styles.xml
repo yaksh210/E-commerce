@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">#ffd700</item>
+        <item name="colorPrimaryDark">#ffd700</item>
+        <item name="colorAccent">@color/design_default_color_primary_variant</item>
+
+    </style>
+
+
+</resources>

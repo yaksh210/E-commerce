@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805019366197",
+    "project_id": "herbalism-4df0e",
+    "storage_bucket": "herbalism-4df0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805019366197:android:82e48f268da55e9035d27c",
+        "android_client_info": {
+          "package_name": "com.example.herbalism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805019366197-ag6q6rkupc411uoq41tr0tfk3bu2fipj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLF46Yrws3dR3RG-3hKGGSXomOO0OkWPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805019366197-ag6q6rkupc411uoq41tr0tfk3bu2fipj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
